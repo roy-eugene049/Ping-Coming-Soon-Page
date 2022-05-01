@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/yash-278/Frontend-Mentor-Challenges/tree/main/Ping-Coming-Soon-Page)
-- Live Site URL: [Live Demo](https://yash-278.github.io/Frontend-Mentor-Challenges/Ping-Coming-Soon-Page/index.html)
+- Solution URL: [Github Repo](https://github.com/roy-eugene049/Ping-Coming-Soon-Page)
+- Live Site URL: [Live Demo](https://ping-coming-soon-page-dusky.vercel.app/)
 
 ## My process
 
